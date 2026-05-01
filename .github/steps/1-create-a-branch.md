@@ -24,7 +24,7 @@ For more information, see "[About branches](https://docs.github.com/en/pull-requ
 is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com.
 GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
 
-![screenshot showing an example profile readme](../images/example-profile-readme.png)
+![screenshot showing an example profile readme](https://github.com/Dev-moe-kyawaung/skills-introduction-to-github/blob/main/.github/images/example-profile-readme.png?raw=true)
 
 ### :keyboard: Activity: Your first branch
 
@@ -32,11 +32,11 @@ GitHub shows your profile README at the top of your profile page. For more infor
 
 2. Navigate to the **< > Code** tab in the header menu of your repository.
 
-   ![screenshot highlighting the code tab](../images/code-tab-highlight.png)
+   ![screenshot highlighting the code tab](https://github.com/Dev-moe-kyawaung/skills-introduction-to-github/blob/main/.github/images/code-tab-highlight.png?raw=true)
 
 3. Click on the **main** branch drop-down.
 
-   <img width="300" alt="screenshot highlighting the branch selection" src="../images/branch-selection-dropdown.png">
+   <img width="300" alt="screenshot highlighting the branch selection" src="https://github.com/Dev-moe-kyawaung/skills-introduction-to-github/blob/main/.github/images/branch-selection-dropdown.png?raw=true">
 
 4. In the text box **Find or create a branch...**, enter `my-first-branch`.
    
@@ -44,7 +44,7 @@ GitHub shows your profile README at the top of your profile page. For more infor
 
 5. Click the text **Create branch: `my-first-branch` from main** to create your branch.
 
-   <img width="300" alt="screenshot highlighting the create branch prompt" src="../images/create-branch-prompt.png">
+   <img width="300" alt="screenshot highlighting the create branch prompt" src="https://github.com/Dev-moe-kyawaung/skills-introduction-to-github/blob/main/.github/images/create-branch-prompt.png?raw=true">
 
    - The branch will automatically switch to the one you just created.
    - The **main** branch drop-down menu will display your new branch name.
